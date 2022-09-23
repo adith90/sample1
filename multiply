@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo " enter the number1"
+read num_1
+
+echo "enter the number2"
+read num_2
+
+product=`expr $num_1 \* $num_2`
+
+echo "The product $num_1 and $num_2 is $product"
