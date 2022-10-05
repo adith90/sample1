@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo " enter number1"
+read num_1
+
+echo " enter number2"
+read num_2
+
+sum=`expr $num_1 + $num_2`
+
+echo "The addition of $num_1 and $num_2 is $sum" 
