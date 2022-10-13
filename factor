@@ -7,3 +7,4 @@ while [ $n -gt 0 ];do
 	n=`expr $n - 1`
 done
 echo "Factorial of $1 is $f"
+echo"Hi"
