@@ -10,4 +10,4 @@ sum=`expr $num_1 + $num_2`
 
 echo "The addition of $num_1 and $num_2 is $sum" 
 echo"jenkins job"
-echo"training class"
+echo"training classs"
