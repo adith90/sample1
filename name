@@ -1,6 +1,1 @@
-#!/bin/bash
-name="Adith"
-age="30"
-
-echo "The name of the person is $name and age is $age"
-
+welcome
