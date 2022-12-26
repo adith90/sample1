@@ -8,4 +8,5 @@ if [ $number -eq 20 ];then
 else
 	echo "The given number $number is not equal to 20"
 	echo "hi"
+	echo "jkbjkbvjb"
 fi
